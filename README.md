@@ -1,6 +1,6 @@
 # SFT Driver iOS Android
 
-SFT Driver is a Flutter project.
+SFT Driver is a comprehensive logistics application designed to streamline delivery operations. It features advanced routing optimization, barcode scanning for efficient package tracking, digital signing for proof of delivery, and various tools to enhance driver productivity and accuracy in the field.
 
 ## Installation
 
